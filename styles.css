@@ -68,3 +68,15 @@ p {
   border-radius: 8px;
   font-weight: bold;
 }
+
+section {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+section > a {
+  background-color: #ffa75f;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
